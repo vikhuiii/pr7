@@ -1,0 +1,2 @@
+19032;journal;kancelar;2000;34;5
+45894;glasses;aksesuar;1500;240;10
